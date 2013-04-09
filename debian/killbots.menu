@@ -1,0 +1,9 @@
+?package(killbots):\
+	needs="x11"\
+	section="Games/Strategy"\
+	hints="KDE,BlackBox"\
+	title="killbots"\
+	icon32x32="/usr/share/pixmaps/killbots.xpm"\
+	icon16x16="/usr/share/pixmaps/killbots-16.xpm"\
+	command="/usr/games/killbots"
+
