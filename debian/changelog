@@ -1,4 +1,4 @@
-killbots (4:4.12.2-1) UNRELEASED; urgency=medium
+killbots (4:4.12.2-1) experimental; urgency=medium
 
   * 
   * Add autopkgtests.
@@ -6,7 +6,7 @@ killbots (4:4.12.2-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump kde-sc-dev-latest build dependency.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 19:11:19 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:32:34 +0100
 
 killbots (4:4.11.3-1) unstable; urgency=low
 
