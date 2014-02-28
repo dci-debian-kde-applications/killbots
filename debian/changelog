@@ -6,7 +6,6 @@ killbots (4:4.12.3-1~) UNRELEASED; urgency=medium
 
 killbots (4:4.12.2-1) experimental; urgency=medium
 
-  * 
   * Add autopkgtests.
   * Bump Standards-Version to 3.9.5, no changes needed.
   * New upstream release.
