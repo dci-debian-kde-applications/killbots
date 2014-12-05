@@ -25,7 +25,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/killbots.git
 Package: killbots
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter
+Recommends: khelpcenter4
 Description: port of the classic BSD console game robots
  killbots is a simple game of evading killer robots. The robots are numerous
  and their sole objective is to destroy you.  Fortunately for you, their
