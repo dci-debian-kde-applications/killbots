@@ -1,9 +1,9 @@
-killbots (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+killbots (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes.
   * New upstream release. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Feb 2016 09:46:56 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:46:56 +0100
 
 killbots (4:15.12.0-1) experimental; urgency=medium
 
