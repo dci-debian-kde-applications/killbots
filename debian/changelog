@@ -1,11 +1,20 @@
-killbots (4:16.04.0-1~1.gbp7a5e34) UNRELEASED; urgency=medium
+killbots (4:16.04.0-1~2.gbp418793) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @4187931a548505e1baf2ff765caf9bce16896e2e **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @7a5e3464486437eb62f5ff96640cd39fcedda73a **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:52:14 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 12:52:15 +0200
 
 killbots (4:15.12.0-1) experimental; urgency=medium
 
