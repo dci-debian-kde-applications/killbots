@@ -1,10 +1,6 @@
-killbots (4:16.04.1-1~1.gbp28cc68) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @28cc68ee1871e4984d7c6286fcff6a4896eb0833 **
+killbots (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @7a5e3464486437eb62f5ff96640cd39fcedda73a **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -13,9 +9,8 @@ killbots (4:16.04.1-1~1.gbp28cc68) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 23:52:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:27:29 +0200
 
 killbots (4:15.12.0-1) experimental; urgency=medium
 
