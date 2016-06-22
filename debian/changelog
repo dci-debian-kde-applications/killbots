@@ -1,10 +1,8 @@
-killbots (4:16.04.2-1~1.gbp7d124b) UNRELEASED; urgency=medium
+killbots (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @7d124bf2bc212dca50b50d71b737bf0c69325794 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 05:52:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:51:12 +0200
 
 killbots (4:16.04.1-1) unstable; urgency=medium
 
