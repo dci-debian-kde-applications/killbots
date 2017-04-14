@@ -41,6 +41,8 @@ Package: killbots
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: port of the classic BSD console game robots
  killbots is a simple game of evading killer robots. The robots are numerous
  and their sole objective is to destroy you.  Fortunately for you, their
