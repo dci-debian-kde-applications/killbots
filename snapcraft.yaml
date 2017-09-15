@@ -12,7 +12,7 @@ description: |-
 confinement: strict
 grade: stable
 apps:
-    kexi:
+    killbots:
         command: kf5-launch killbots
         plugs:
         - kde-frameworks-5-plug
@@ -30,7 +30,7 @@ plugs:
         default-provider: kde-frameworks-5
         target: kf5
 parts:
-    kexi:
+    killbots:
         after:
         - kde-frameworks-5-dev
         - kde-frameworks-5-env
